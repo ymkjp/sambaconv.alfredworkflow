@@ -16,7 +16,6 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 ```
 
 
-
 ## INSTALL
 
 1. You can download from https://dl.dropboxusercontent.com/u/6998388/sambaconv.alfredworkflow
@@ -34,3 +33,4 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.32.36.png "Paste it to Finder")
 
 
+https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.40.21.png
