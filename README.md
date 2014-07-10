@@ -32,5 +32,13 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.32.36.png "Paste it to Finder")
 
+## CONTRIBUTION
 
-https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.40.21.png
+Here's a overview: feel free to send a pull request.
+
+![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.40.21.png "So simple")
+
+
+Yep, there are no code to modify.  # It's only 2 lines !
+
+
