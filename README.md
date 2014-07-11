@@ -1,8 +1,8 @@
-sambaconv
-========================
+# sambaconv
+
 
 ## WHAT'S THIS
-Alfred workflow to convert file path from Windows style to Unix style for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
+Alfred work flow to convert file path from Windows style to Unix style for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
 
 
 Before
@@ -24,7 +24,7 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ## HOWTO USE
 
-* 1. Paste direcroty path to Alfred prompt
+* 1. Paste directory path to Alfred prompt
 
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202014-07-10%2022.19.41.png "Paste direcroty path to Alfred prompt")
 
@@ -34,11 +34,11 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ## CONTRIBUTION
 
-Here's a overview: feel free to send a pull request.
+Here's an overview: feel free to send a pull request.
 
 ![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.40.21.png "So simple")
 
 
-Yep, there are no code to modify.  # It's only 2 lines !
+Yep, there is no code to modify.  # It's only 2 lines !
 
 
