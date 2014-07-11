@@ -1,5 +1,5 @@
-sambaconv
-========================
+# sambaconv
+
 
 ## WHAT'S THIS
 Alfred workflow to convert file path from Windows style to Unix style for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
