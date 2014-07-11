@@ -2,7 +2,7 @@
 
 
 ## WHAT'S THIS
-Alfred work flow to convert file path from Windows style to Unix style for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
+Alfred Workflow to convert file path from Windows style to Unix style for [Powerpack](http://www.alfredapp.com/powerpack/) users
 
 
 Before
@@ -18,8 +18,8 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ## INSTALL
 
-1. Download (https://github.com/ymkjp/sambaconv.alfredworkflow/archive/master.zip)
-2. Click ``sambaconv.alfredworkflow/sambaconv.alfredworkflow`` to install
+1. Download from https://github.com/ymkjp/sambaconv.alfredworkflow/blob/master/sambaconv.alfredworkflow?raw=true
+2. Click the downloaded file to install
 
 
 ## HOWTO USE
@@ -32,9 +32,10 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.32.36.png "Paste it to Finder")
 
+
 ## CONTRIBUTION
 
-Here's an overview: feel free to send a pull request.
+Here's an overview: Feel free to send a pull request.
 
 ![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-10%2022.40.21.png "So simple")
 
