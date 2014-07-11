@@ -18,8 +18,8 @@ smb://fsv.example.com/prj/03_QA_share/03_TestCases
 
 ## INSTALL
 
-1. You can download from https://dl.dropboxusercontent.com/u/6998388/sambaconv.alfredworkflow
-2. Click the downloaded file
+1. Download (https://github.com/ymkjp/sambaconv.alfredworkflow/archive/master.zip)
+2. Click ``sambaconv.alfredworkflow/sambaconv.alfredworkflow`` to install
 
 
 ## HOWTO USE
